@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yashraj Sherke</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj-sherke&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj-sherke" /> </p>
 
-- 🔭 I’m currently working on **HealthCare**
+- 🔭 I’m currently working on **BitBuds-Kids Coading Platform**
 
 - 🌱 I’m currently learning **DSA & Web dev**
 
