@@ -9,7 +9,7 @@
 <td width="50%" valign="top">
 
 ## 🚀 About Me
-- 🎓 **CS Student** at MITS (CGPA: 8.02)
+- 🎓 **CS Student** at MITS (CGPA: 7.96)
 - 💼 **Front End Developer Intern** at Visionary Bose Pvt. Ltd.
 - 💡 **Solved 350+ DSA Problems** on LeetCode & GFG
 - 🌍 **Open Source Contributor** (Hacktoberfest 2023)
