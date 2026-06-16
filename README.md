@@ -27,7 +27,7 @@
 ## 🎓 Education
 **🏛️ B.Tech Computer Science**  
 *Madhav Institute of Technology*  
-**CGPA: 8.02** | Nov 2022 – Present
+**CGPA: 7.96** | Nov 2022 – Present
 
 **📚 Key Coursework:**
 - Data Structures & Algorithms
